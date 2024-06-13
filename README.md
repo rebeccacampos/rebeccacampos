@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rebecca!
 
 ### 👩🏽‍💻 Starting my journey as a creative Front-End Developer.
-### 💙 A passion for building user-friendly interfaces and experiences. 
+### 💙 Passion for building user-friendly interfaces and experiences. 
 ### 🎨 Marketing and Design background.
 
 #
