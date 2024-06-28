@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Damelis!
+# 👋 Hi, I'm Rebecca!
 
 ### 👩🏽‍💻 Starting my journey as a creative Front-End Developer.
 ### 💙 Passion for building user-friendly interfaces and experiences. 
