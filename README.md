@@ -14,16 +14,16 @@
 > **I'm still learning, but my projects might spark some inspiration for your next masterpiece!** ®
 
 > [!TIP]
-> **Communicating in human and cat language, coding in developer language.** 🌎
+> **Communicating in human language, coding in developer language.** 🌎
 >
 > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 > [!IMPORTANT]
-> **Coffee enpowers my pixels!** ☕️
+> **Coffee powers my pixels!** ☕️
 
 > [!WARNING]
 > **Beware of excessive emoji usage in my comments. It's a sign of pure coding joy!** ✨
 
 > [!CAUTION]
-> **Equipped with cattitude and a bottomless pit of questions. Collaboration is key!** 💭
+> **Equipped with endless curiosity and a bottomless pit of questions. Collaboration is key!** 💭
