@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rebecca!
 
-### 👩🏽‍💻 Starting my journey as a creative Front-End Developer.
+### 👩🏽‍💻 Starting my journey as a creative Full-Stack Developer.
 ### 💙 Passion for building user-friendly interfaces and experiences. 
-### 🎨 Marketing and Design background.
+### 🎨 Marketing, Design and Product background.
 
 ![Gift de un gato negro asomandose](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN2Y3hza2p1YjA3bWY0NTk4Mzk0Y3ZmNTc4eHRtMWUzZmtvbW15MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wf4bNVkwDbs42YKssB/giphy.webp)
 
