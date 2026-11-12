@@ -35,4 +35,7 @@
 ### 🌐 Get in touch with me! 
 [www.linkedin.com/in/levelupwithbecca](www.linkedin.com/in/levelupwithbecca)
 
+> [!NOTE]
+> If the link doesn't work, copy it into your browser :)
+
 
