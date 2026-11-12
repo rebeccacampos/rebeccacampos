@@ -32,7 +32,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-### 🌐 Get in touch with me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/levelupwithbecca/) 
+### 🌐 LinkedIn 
+[Get in touch with me!](www.linkedin.com/in/levelupwithbecca)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
