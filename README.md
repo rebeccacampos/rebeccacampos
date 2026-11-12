@@ -33,6 +33,6 @@
 
 
 ### 🌐 Get in touch with me! 
-[www.linkedin.com/in/levelupwithbecca!](www.linkedin.com/in/levelupwithbecca)
+[www.linkedin.com/in/levelupwithbecca](www.linkedin.com/in/levelupwithbecca)
 
 
