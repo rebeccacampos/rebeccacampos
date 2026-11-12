@@ -32,7 +32,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-### 🌐 LinkedIn 
-[Get in touch with me!](www.linkedin.com/in/levelupwithbecca)
+### 🌐 Get in touch with me! 
+[www.linkedin.com/in/levelupwithbecca!](www.linkedin.com/in/levelupwithbecca)
 
 
